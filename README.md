@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Ian Smith
 
-# Your Github username
+# ism1-ism1
 
-# List the things you added for points
+# More than eight passages. Multiple major choices. One loop. Can pick up and use items at certain times. Health and knowledge statistics. Dialouge changing on return to same location.
